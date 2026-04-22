@@ -1,73 +1,92 @@
-# 👋 Hi, I'm Krish Gaikwad
+<h1 align="center">Hi, I'm Krish Gaikwad <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="40px" /></h1>
 
-🎯 Aspiring Data Analyst | Transitioning toward Data Engineering  
-📍 Mumbai, India  
+<p align="center">
+  <b>Aspiring Data Analyst | Transitioning toward Data Engineering</b><br><br>
+  <i>
+    I turn raw data into actionable insights that solve real business problems.<br>
+    Not just dashboards — decisions.
+  </i><br><br>
 
-I work on turning raw data into actionable insights that solve real business problems — not just dashboards, but decisions.
+  <a href="https://www.linkedin.com/in/krish-gaikwad-b00a19236/">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=blue" />
+  </a>
+  <a href="https://github.com/KleptomaniacFox">
+    <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github" />
+  </a>
+  <a href="mailto:your-email-here">
+    <img src="https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail" />
+  </a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 📊 Strong interest in **data analytics, business intelligence, and data engineering**
-- 🧠 Focused on **real-world problem solving**
-- 🔍 Currently building projects around:
+- 📊 Strong interest in **Data Analytics, BI & Data Engineering**
+- 🧠 Focused on **real-world problem solving (not tutorial projects)**
+- 🔍 Currently working on:
   - Demand analysis  
   - Customer behavior  
   - Business performance tracking  
-- ⚡ Goal: Break into the data industry with **high-impact portfolio projects**
+- ⚡ Goal: Break into the data industry with **high-impact projects**
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 📊 Data Analysis
-- Excel (Advanced)  
-- SQL (MySQL / SQL Server)  
-- Python (Pandas, NumPy)  
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql" />
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+</p>
 
 ### 📈 Visualization
-- Power BI  
-- Matplotlib / Seaborn  
+<p>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Matplotlib-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/Seaborn-black?style=flat-square"/>
+</p>
 
 ### ⚙️ Data Engineering (Foundations)
 - ETL concepts (Extract, Transform, Load)  
-- Data cleaning & preprocessing pipelines  
+- Data cleaning pipelines  
 - Basic data modeling (fact & dimension tables)  
-- Working with structured datasets (CSV, SQL databases)  
-- Intro to workflow thinking (data flow, dependencies)
+- Structured data handling (SQL, CSV)  
+- Workflow thinking (data flow, dependencies)
 
-### ⚙️ Other Tools
-- Git & GitHub  
-- Jupyter Notebook  
+### 🧰 Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github" />
+<img src="https://img.shields.io/badge/Jupyter-black?style=flat-square&logo=jupyter"/>
+</p>
 
 ---
 
 ## 📂 Featured Projects
 
 ### 📈 Sales & Demand Analysis Dashboard
-- Built an interactive Power BI dashboard to track sales trends and seasonality  
+- Built an interactive Power BI dashboard for sales trends & seasonality  
 - Identified peak demand periods and revenue drivers  
-- Focused on **business storytelling**, not just charts  
+- Focused on **business storytelling, not just charts**  
 
-👉 **Key Skills:** Data Cleaning, DAX, Visualization  
-
----
-
-### 🍰 Local Bakery Order Analysis (Real-world case)
-- Analyzed order patterns for a home bakery business  
-- Suggested improvements in product mix and peak-hour optimization  
-- Demonstrated how small businesses can use data for growth  
-
-👉 **Key Skills:** Excel, Business Insight, Trend Analysis  
+👉 **Skills:** Data Cleaning, DAX, Visualization  
 
 ---
 
-### 🧑‍💼 Customer Segmentation Project
+### 🍰 Local Bakery Order Analysis
+- Analyzed real-world order data for a home bakery  
+- Suggested improvements in product mix & peak-hour optimization  
+- Showed how small businesses can use data for growth  
+
+👉 **Skills:** Excel, Trend Analysis, Business Insight  
+
+---
+
+### 🧑‍💼 Customer Segmentation
 - Segmented customers based on purchasing behavior  
-- Helped define target groups for marketing strategies  
+- Defined target groups for marketing strategies  
 
-👉 **Key Skills:** Python, Clustering, Data Interpretation  
+👉 **Skills:** Python, Clustering, Data Interpretation  
 
 ---
 
@@ -83,19 +102,21 @@ I work on turning raw data into actionable insights that solve real business pro
 
 ## 🌱 Currently Learning
 
-- Freelance Services (Analytics report & Insights)  
-- Data Engineering basics (ETL pipelines, data modeling)  
-- Real-world datasets & business case simulations  
+- Advanced SQL (window functions, optimization)  
+- Data Engineering basics (ETL, data modeling)  
+- Real-world datasets & case-based analysis  
 
 ---
 
-## 🤝 Let’s Connect
+## 📈 GitHub Stats
 
-- 💼 LinkedIn: *https://www.linkedin.com/in/krish-gaikwad-b00a19236/*  
-- 📧 Email: *krish.gaikwad.1505@gmail.com*  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KleptomaniacFox&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KleptomaniacFox&layout=compact&theme=transparent" />
+</p>
 
 ---
 
 ## ⚡ Fun Fact
 
-I believe a good data project is not about complexity — it's about clarity and impact.
+> A good data project is not about complexity — it's about clarity and impact.
