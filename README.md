@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Krish Gaikwad <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="40px" /></h1>
 
 <p align="center">
-  <b>Aspiring Data Analyst | Transitioning toward Data Engineering</b><br><br>
+  <b> Data Analyst | Transitioning toward Data Engineering</b><br><br>
   <i>
     I turn raw data into actionable insights that solve real business problems.<br>
     Not just dashboards — decisions.
